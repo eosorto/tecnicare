@@ -1,0 +1,73 @@
+[{
+    "precio": 2000,
+    "id": 1,
+    "title": "LG K22",
+    "especificaciones": "Red CLARO",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk22.jpg"
+}, {
+    "precio": 2300,
+    "id": 2,
+    "title": "LG K22",
+    "especificaciones": "Doble SEM",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk22sem2.jpg"
+}, {
+    "precio": 2300,
+    "id": 3,
+    "title": "K22 PLUS",
+    "especificaciones": "Red CLARO",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk22+.jpg"
+}, {
+    "precio": 2600,
+    "id": 4,
+    "title": "K22 PLUS",
+    "especificaciones": "Doble SEM",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk22+2sem.jpg"
+}, {
+    "precio": 2300,
+    "id": 5,
+    "title": "K40",
+    "especificaciones": "Red CLARO",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk40sem2.jpg"
+}, {
+    "precio": 2450,
+    "id": 6,
+    "title": "K40",
+    "especificaciones": "Liberado 1SEM",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk40.jpg"
+}, {
+    "precio": 2700,
+    "id": 7,
+    "title": "K50",
+    "especificaciones": "Red CLARO",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk50.jpg"
+}, {
+    "precio": 2900,
+    "id": 8,
+    "title": "K50",
+    "especificaciones": "Doble SEM",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk50sem2.jpg"
+}, {
+    "precio": 3000,
+    "id": 9,
+    "title": "Q60",
+    "especificaciones": "Doble SEM",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgq60.jpg"
+}, {
+    "precio": 4200,
+    "id": 10,
+    "title": "K50S",
+    "especificaciones": "Red de CLARO",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk50s.jpg"
+}, {
+    "precio": 3700,
+    "id": 11,
+    "title": "K51S",
+    "especificaciones": "Red de CLARO",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk51s.jpg"
+}, {
+    "precio": 3700,
+    "id": 12,
+    "title": "K42",
+    "especificaciones": "Doble SEM Nuevo",
+    "thumbnailUrl": "./imagenes/imagenesTelefonosVentas/Lgk42.jpg"
+}]
